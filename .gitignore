@@ -1,0 +1,3 @@
+carla/maps/*
+!carla/maps/README.md
+__pycache__
